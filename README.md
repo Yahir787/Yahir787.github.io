@@ -4,7 +4,7 @@
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #ffa94e;
+            background-color: #d9d9d9;
             color: #303030;
         }
         
