@@ -3,13 +3,13 @@
 <head>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #F5F5F5;
-            color: #333;
+            font-family: 'Comic Sans MS', cursive;
+            background-color: #ffdab4;
+            color: #f3f3f3;
         }
         
         h1 {
-            color: #007bff;
+            color: #9a9a9a;
         }
         
         p {
