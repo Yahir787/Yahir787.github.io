@@ -4,8 +4,8 @@
     <style>
         body {
             font-family: 'Comic Sans MS', cursive;
-            background-color: #ffdab4;
-            color: #f3f3f3;
+            background-color: #ffa94e;
+            color: #cdcdcd;
         }
         
         h1 {
@@ -23,6 +23,8 @@
     <h2>¿Qué es un Sensor PIR?</h2>
     <p>Un <strong>Sensor PIR</strong> es un tipo de sensor que detecta cambios en la radiación infrarroja emitida por objetos en su entorno. A diferencia de otros sensores, como los sensores ultrasónicos, los sensores PIR no emiten ninguna señal activa; en su lugar, son "pasivos" y responden a la radiación infrarroja existente en su campo de visión.</p>
 
+    <img src="https://th.bing.com/th/id/OIP.NVoc7ydoVu5a0ndpregWXwHaHa?pid=ImgDet&rs=1" alt="Sensor PIR">
+    
     <h2>Funcionamiento</h2>
     <p>El funcionamiento de un Sensor PIR se basa en el principio de detección de movimiento. Consiste en una lente que se utiliza para enfocar la radiación infrarroja en un sensor de detección. El sensor contiene dos componentes principales:</p>
     <ol>
