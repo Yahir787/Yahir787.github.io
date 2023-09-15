@@ -27,20 +27,20 @@
     <h2>Nombe de Pines</h2>
     <table style="background-color: black;">
         <tr>
-            <td>Nombre</td>
-            <td>Descripcion</td>
+            <td style="color: white;">Nombre</td>
+            <td style="color: white;">Descripcion</td>
         </tr>
         <tr>
-            <td>GND</td>
-            <td>Tierra</td>
+            <td style="color: white;">GND</td>
+            <td style="color: white;">Tierra</td>
         </tr>
         <tr>
-            <td>OUT</td>
-            <td>Salida (digital)</td>
+            <td style="color: white;">OUT</td>
+            <td style="color: white;">Salida (digital)</td>
         </tr>
         <tr>
-            <td>VCC</td>
-            <td>Entrada de voltaje</td>
+            <td style="color: white;">VCC</td>
+            <td style="color: white;">Entrada de voltaje</td>
         </tr>
     </table>
 
