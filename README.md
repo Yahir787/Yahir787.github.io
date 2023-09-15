@@ -25,7 +25,7 @@
 
     <img src="https://hub360.com.ng/wp-content/uploads/2015/01/pir_module-1.png" alt="Sensor PIR">
     <h2>Nombe de Pines</h2>
-    <table>
+    <table style="background-color: black;">
         <tr>
             <td>Nombre</td>
             <td>Descripcion</td>
