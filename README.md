@@ -24,6 +24,26 @@
     <p>Un <strong>Sensor PIR</strong> es un tipo de sensor que detecta cambios en la radiación infrarroja emitida por objetos en su entorno. A diferencia de otros sensores, como los sensores ultrasónicos, los sensores PIR no emiten ninguna señal activa; en su lugar, son "pasivos" y responden a la radiación infrarroja existente en su campo de visión.</p>
 
     <img src="https://hub360.com.ng/wp-content/uploads/2015/01/pir_module-1.png" alt="Sensor PIR">
+    <h2>Nombe de Pines</h2>
+    <table>
+        <tr>
+            <td>Nombre</td>
+            <td>Descripcion</td>
+        </tr>
+        <tr>
+            <td>GND</td>
+            <td>Tierra</td>
+        </tr>
+        <tr>
+            <td>OUT</td>
+            <td>Salida (digital)</td>
+        </tr>
+        <tr>
+            <td>VCC</td>
+            <td>Entrada de voltaje</td>
+        </tr>
+    </table>
+
     
     <h2>Funcionamiento</h2>
     <p>El funcionamiento de un Sensor PIR se basa en el principio de detección de movimiento. Consiste en una lente que se utiliza para enfocar la radiación infrarroja en un sensor de detección. El sensor contiene dos componentes principales:</p>
