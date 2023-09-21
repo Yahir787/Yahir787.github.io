@@ -20,7 +20,7 @@ El funcionamiento de un Sensor PIR se basa en el principio de detección de movi
 
 2. **Circuito de Detección**: El circuito de detección amplifica la señal generada por el pirómetro y la procesa. Si la diferencia de temperatura entre el objeto en movimiento y el fondo es lo suficientemente grande, el sensor PIR activará una señal de salida.
 
-##Ventajas
+## Ventajas
 
 - *Eficiencia Energética*: Los sensores PIR son eficientes en términos energéticos ya que solo se activan cuando detectan movimiento, lo que ayuda a reducir el consumo de energía en iluminación y otros dispositivos eléctricos.
 
@@ -28,7 +28,7 @@ El funcionamiento de un Sensor PIR se basa en el principio de detección de movi
 
 - *Detección Pasiva*: No emiten señales activas, lo que significa que no pueden ser detectados por otros sensores y no afectan la privacidad.
 
-##Desventajas
+## Desventajas
 
 - *Ángulo de Detección Limitado*: El ángulo de detección puede ser limitado, por lo que se deben colocar varios sensores para cubrir áreas grandes.
 
