@@ -22,19 +22,19 @@ El funcionamiento de un Sensor PIR se basa en el principio de detección de movi
 
 ## Ventajas
 
-- *Eficiencia Energética*: Los sensores PIR son eficientes en términos energéticos ya que solo se activan cuando detectan movimiento, lo que ayuda a reducir el consumo de energía en iluminación y otros dispositivos eléctricos.
+- **Eficiencia Energética**: Los sensores PIR son eficientes en términos energéticos ya que solo se activan cuando detectan movimiento, lo que ayuda a reducir el consumo de energía en iluminación y otros dispositivos eléctricos.
 
-- *Facilidad de Instalación*: Son fáciles de instalar y se pueden utilizar en una variedad de configuraciones, desde iluminación exterior hasta sistemas de seguridad.
+- **Facilidad de Instalación**: Son fáciles de instalar y se pueden utilizar en una variedad de configuraciones, desde iluminación exterior hasta sistemas de seguridad.
 
-- *Detección Pasiva*: No emiten señales activas, lo que significa que no pueden ser detectados por otros sensores y no afectan la privacidad.
+- **Detección Pasiva**: No emiten señales activas, lo que significa que no pueden ser detectados por otros sensores y no afectan la privacidad.
 
 ## Desventajas
 
-- *Ángulo de Detección Limitado*: El ángulo de detección puede ser limitado, por lo que se deben colocar varios sensores para cubrir áreas grandes.
+- **Ángulo de Detección Limitado**: El ángulo de detección puede ser limitado, por lo que se deben colocar varios sensores para cubrir áreas grandes.
 
-- *Interferencia de Objetos Estacionarios*: Los sensores PIR pueden ser sensibles a objetos estacionarios que emiten calor, como radiadores o estufas.
+- **Interferencia de Objetos Estacionarios**: Los sensores PIR pueden ser sensibles a objetos estacionarios que emiten calor, como radiadores o estufas.
 
-- *Rango de Detección Limitado*: El rango de detección puede ser limitado, por lo que es importante elegir un sensor con el alcance adecuado para la aplicación.
+- **Rango de Detección Limitado**: El rango de detección puede ser limitado, por lo que es importante elegir un sensor con el alcance adecuado para la aplicación.
 
 ## Aplicaciones Comunes
 Los sensores PIR se utilizan en una amplia variedad de aplicaciones, algunas de las cuales incluyen:
