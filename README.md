@@ -34,16 +34,12 @@ El funcionamiento de un Sensor PIR se basa en el principio de detección de movi
 
 - **Interferencia de Objetos Estacionarios**: Los sensores PIR pueden ser sensibles a objetos estacionarios que emiten calor, como radiadores o estufas.
 
-- **Rango de Detección Limitado**: El rango de detección puede ser limitado, por lo que es importante elegir un sensor con el alcance adecuado para la aplicación.
-
 ## Aplicaciones Comunes
 Los sensores PIR se utilizan en una amplia variedad de aplicaciones, algunas de las cuales incluyen:
 
 - **Iluminación Automática**: En hogares y edificios comerciales, los sensores PIR se utilizan para encender y apagar luces automáticamente cuando detectan movimiento en una habitación. Esto ayuda a ahorrar energía al apagar las luces cuando no hay nadie presente.
 
 - **Seguridad**: Los sistemas de seguridad utilizan sensores PIR para detectar intrusos o movimientos sospechosos en áreas protegidas. Cuando se activa el sensor, puede desencadenar una alarma o enviar una notificación a un sistema de seguridad.
-
-- **Automatización del Hogar**: En sistemas de automatización del hogar, los sensores PIR pueden usarse para activar dispositivos como termostatos, cámaras de seguridad y sistemas de audio cuando se detecta movimiento.
 
 - **Control de Tráfico**: Los sensores PIR se utilizan en algunas aplicaciones de control de tráfico para detectar la presencia de vehículos en intersecciones y activar semáforos o sistemas de detección de tráfico.
 
